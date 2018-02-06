@@ -6,18 +6,24 @@
     <description>Recent content in Plugins on Open Live Writer Plugins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Feb 2018 18:56:48 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 21:04:24 -0500</lastBuildDate>
     
 	<atom:link href="https://olwplugins.github.io/plugins/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>PastePic</title>
-      <link>https://olwplugins.github.io/plugins/pastepic/</link>
-      <pubDate>Mon, 05 Feb 2018 18:56:48 -0500</pubDate>
+      <title>Url2Title</title>
+      <link>https://olwplugins.github.io/plugins/url2title/</link>
+      <pubDate>Mon, 05 Feb 2018 21:04:24 -0500</pubDate>
       
-      <guid>https://olwplugins.github.io/plugins/pastepic/</guid>
-      <description>hello</description>
+      <guid>https://olwplugins.github.io/plugins/url2title/</guid>
+      <description>Replaces pasted URLs with its corresponding title instead.
+You can keep the raw URL by pressing SHIFT key only if paste is done via contextual menu, but if pasted using hotkey Ctrl+V is done, it will paste URL&amp;rsquo;s title.
+It can be enabled/disabled in the plugins dialog window.
+ Download: Url2Title.olwpkg
+Repository: Url2Title
+Original: Codeplex Archive
+License: Microsoft Public License (Ms-PL)</description>
     </item>
     
   </channel>
